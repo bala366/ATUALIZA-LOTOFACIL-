@@ -1,0 +1,12 @@
+FALHA UNIVERSO 8/9/10 V1.1
+
+JAVAC CORE: OK
+- mesmo applicationId: OK
+- versionCode 2: OK
+- versionName 1.1.0: OK
+- modulo geral: OK
+- modulo 8: OK
+- modulo 9: OK
+- modulo 10: OK
+- pdf individual: OK
+- sem workflow: OK

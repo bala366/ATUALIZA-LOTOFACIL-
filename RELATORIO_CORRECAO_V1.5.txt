@@ -1,0 +1,14 @@
+FALHA UNIVERSO 8/9/10 V1.5
+
+- 8->8: OK
+- 9->9: OK
+- 10->10: OK
+- selectedRepeat: OK
+- service validates: OK
+- worker validates: OK
+- engine result validates: OK
+- same app id: OK
+- version 1.5: OK
+
+JAVAC CORE: OK
+Manifest XML: OK

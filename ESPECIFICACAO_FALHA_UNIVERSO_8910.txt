@@ -1,0 +1,25 @@
+FALHA DO UNIVERSO 8 / 9 / 10 — V1.0 — APLICATIVO INDEPENDENTE
+
+ID Android: br.com.falhauniverso.oitonovedez
+
+UNIVERSOS
+8 repetidas: 772.200
+9 repetidas: 1.051.050
+10 repetidas: 756.756
+
+PROCESSO
+1. Carregar TXT e resetar toda análise anterior.
+2. Manter a Tabela de Frequência de Falha das 25 dezenas.
+3. Separar os três universos.
+4. Antes do refino, eliminar jogos fora dos padrões históricos:
+   soma, pares, primos, Fibonacci, miolo, cruz, borda, linhas, colunas e perímetro.
+5. Para cada sobrevivente, extrair o complemento de 10 dezenas = FALHA.
+6. Classificar as falhas por força histórica/parcial.
+7. Medir evolução recente da falha, com atenção especial ao movimento:
+   antepenúltimo -> penúltimo -> último.
+8. Cruzar evolução com a Tabela de Frequência de Falha.
+9. Escolher uma falha campeã no universo 8, uma no 9 e uma no 10.
+10. Gerar três PDFs: 10 falhas vermelhas e 15 dezenas do jogo em branco.
+
+A execução mostra combinação atual/total, percentual decimal, tempo e ETA.
+O projeto não contém workflow.

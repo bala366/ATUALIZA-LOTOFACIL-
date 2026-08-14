@@ -1,0 +1,23 @@
+FALHA UNIVERSO 8/9/10 — V1.4
+
+BASE USADA
+V1.1 — módulos separados, mantendo o mesmo visor.
+
+ALTERAÇÕES APENAS INTERNAS
+- Mesmo visual e mesmos botões da V1.1.
+- Clique dos módulos 8/9/10 inicia serviço em segundo plano.
+- Módulo geral 8+9+10 também usa o serviço.
+- Checkpoint a cada 2.500 candidatos.
+- Ao bloquear/desbloquear ou reabrir a Activity, lê o estado salvo.
+- onResume não chama hardReset.
+- TXT recebe URI persistente.
+- Reset só no botão ZERAR / NOVA ANÁLISE.
+- Enquanto estiver rodando, o reset fica bloqueado.
+- Foreground Service declarado com permissões corretas.
+
+VALIDAÇÃO
+- AndroidManifest.xml: XML válido.
+- CoreEngine.java: JAVAC OK.
+- Checks estruturais: OK.
+
+Observação: a compilação e abertura do APK final em aparelho Android dependem do GitHub Actions e do dispositivo.

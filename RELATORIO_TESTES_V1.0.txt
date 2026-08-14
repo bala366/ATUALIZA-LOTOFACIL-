@@ -1,0 +1,11 @@
+JAVAC CORE: OK
+ID independente: OK
+Universo 8: OK
+Universo 9: OK
+Universo 10: OK
+Tabela falha: OK
+Padrões: OK
+Perímetro: OK
+Evolução falha: OK
+PDF vermelho: OK
+Sem workflow: OK
